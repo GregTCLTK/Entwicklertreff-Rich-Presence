@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://discord.gg/UtXEP5e"><img src="https://discordapp.com/api/guilds/365116470339960832/embed.png" alt="Discord server" /></a>
+    <a href="https://discord.gg/Cw22nAC"><img src="https://discordapp.com/api/guilds/365116470339960832/embed.png" alt="Discord server" /></a>
   </p>
 </div>
 
@@ -32,6 +32,6 @@ Danke an CodingGuy für die unterstützung dieses Projektes.
 
 ### __Werbung__
 
-[Entwicklertreff](https://discord.gg/UtXEP5e) ist die größte deutsche Discord-Entwicklercommunity. Dort könnt ihr hilfe bei euren aktuellen Coding-Projekten bekommen oder ihr fängt an eine neue Programmiersprache zu lernen mit unserem ausgearbeiteten Mentorenprogramm.
+[Entwicklertreff](https://discord.gg/Cw22nAC) ist die größte deutsche Discord-Entwicklercommunity. Dort könnt ihr hilfe bei euren aktuellen Coding-Projekten bekommen oder ihr fängt an eine neue Programmiersprache zu lernen mit unserem ausgearbeiteten Mentorenprogramm.
 
 © ForceBOTS / David
